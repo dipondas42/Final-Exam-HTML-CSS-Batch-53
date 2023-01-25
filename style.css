@@ -175,7 +175,7 @@ width: 100%;
     margin-top: 100px;
     color: white;
     font-size: 52px;
-    font-size: 600;
+    font-weight: 600;
 }
 .banner-section p{
     margin: 45px 0;
@@ -184,8 +184,8 @@ width: 100%;
 
 .banner-img img {
     
-    width:53vw;
-	margin-left:20px;
+    width:48vw;
+	margin-right:40px;
     
 }
 /*about us*/
